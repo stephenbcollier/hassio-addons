@@ -19,8 +19,3 @@ This repository contains the following add-ons. Current addons are only built fo
 ### [WeeWX add-on](./weewx)
 
 _Weewx implementation with Home Assistant and inteceptor extentions installed and enabled._
-
-![Supports aarch64 Architecture][aarch64-shield]
-![Supports amd64 Architecture][amd64-shield]
-[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-TBD-lightgrey.svg
