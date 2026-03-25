@@ -5,7 +5,7 @@ _This Addon deploys an instance of Weewx server running within the HASSIO Docker
 ![Supports amd64 Architecture][amd64-shield]
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amd64-shield]: https://img.shields.io/badge/amd64-TBD-lightgrey.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 
 This implementation was built with the intent to leverage the interceptor weewx [weewx-interceptor](https://github.com/matthewwall/weewx-interceptor) extension to accept the Weather Underground redirected rtupdate payloads and push them to Home Assistant using the [weewx-home-assistant](https://github.com/felddy/weewx-home-assistant) extention via MQTT. 
 
