@@ -6,11 +6,11 @@ This repository contains Home Assistant add-ons I have created to support my Sma
 
 Select the button below to redirect you to the addon install.
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdalethestirling%2Fhassio-addons)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fstephenbcollier%2Fhassio-addons)
 
 To install this addon repository manually, you need to first log in to your Home Assistant instance and navigate to `Settings -> Addons -> Addon Store`. Once in the Addon Store, you need to select the options button (three dots) in the top right corner and select the `Repositories` menu item. 
 
-In the pop-up window, enter [https://github.com/dalethestirling/hassio-addons/tree/main](https://github.com/dalethestirling/hassio-addons/tree/main) into the `Add` text field at the bottom, then select the `Add` button. This will take a second to update, and then you can close the window. 
+In the pop-up window, enter [https://github.com/stephenbcollier/hassio-addons/tree/main](https://github.com/stephenbcollier/hassio-addons/tree/main) into the `Add` text field at the bottom, then select the `Add` button. This will take a second to update, and then you can close the window. 
 
 ## Add-ons
 
