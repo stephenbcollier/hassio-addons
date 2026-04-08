@@ -29,6 +29,8 @@ schema:
   latitude: float
   longitude: float
   display_units: list(us|metricwx|metric)
+devices:
+  - /dev/ttyUSB0
 ports:
   80/tcp: 48080
 ports_description:
