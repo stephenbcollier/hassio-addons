@@ -5,7 +5,7 @@ slug: weewx
 description: Addon for the weewx server
 uart: true
 udev: true
-url: "https://github.com/dalethestirling/hassio-addons/tree/main/weewx"
+url: "https://github.com/stephenbcollier/hassio-addons/tree/main/weewx"
 arch:
   - aarch64
   - amd64
